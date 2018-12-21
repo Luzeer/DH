@@ -1,0 +1,1991 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Рамен",
+        "description": "Японское блюдо с пшеничной лапшой. Фактически представляет собой недорогой фастфуд, обладающий большой энергетической ценностью и хорошим вкусом.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FF4500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725064,
+          35.660234
+                ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Мисосиру",
+        "description": "Блюдо японской кухни, суп с растворенной в нем пастой мисо. В состав супа включается множество второстепенных ингредиентов, их набор зависит от региона и сезона. ",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FF4500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725064,
+          35.695127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Даси",
+        "description": "Осветлённый рыбный бульон, готовящийся с комбу (морской водорослью) и кацуобуси (кусочки сушёно-копчёного тунца). Даси нередко используется как основа для мисосиру и других японских супов.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FF4500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760304,
+          35.671881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Кугигугсё",
+        "description": "Суп из свинины с лапшой",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#8FBC8F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.968107,
+          37.592682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Перловый суп",
+        "description": "Состав - баранина, перловая крупа и разные овощи ",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#BA55D3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.192578,
+          55.949133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Каллен Скинк",
+        "description": "Копчёная пикша, картофель, лук и сливки.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#BA55D3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.208211,
+          55.943830
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "title": "Кок-а-Лики",
+        "description": "Суп из лука-порея, курицы и картофеля.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#BA55D3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.169283,
+         55.976774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Фруктсоппа",
+        "description": "Сушёные фрукты, например изюм и чернослив.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFD700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		13.188942,
+		55.703976
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Карповый суп",
+        "description": "Голова карпа и субпродукты, лук и прочие овощи. В Чехии традиционно подаётся на рождественский ужин.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#C71585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			14.396122,
+			50.088567
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Креветочный суп",
+        "description": "Суп-бисквит, в основе которого креветки",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			2.322378,
+			48.888074
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из омаров",
+        "description": "Суп с омарами, густыми сливками и хересом",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		2.328205, 
+		48.859002
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Рагу из лобстеров",
+        "description": "Суп-пюре или бульон с кусочками северо-атлантического лобстера.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		4.856043, 
+		45.767117
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Фуме",
+        "description": "Рыбный бульон нередко концентрируется и используется в качестве соусной основы, часто готовится из рыбьей головы и костей.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		4.829377,
+		45.768822
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Французский луковый суп",
+        "description": "Насыщенный бульон с луком и говядиной. Часто подаётся с гренками или растопленным сверху сыром, который покрывает коркой чашу.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		7.268341,
+		43.698013
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Крем Нинон",
+        "description": "Базируется на густом бульоне с плотным пюре из зелёного гороха с шампанским.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		2.310454,
+		48.871538
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп-пюре из краба ",
+        "description": "Самый распространенный — мэрилендский суп-пюре из крабов",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		7.747512,
+48.583866
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Крабовый суп ",
+        "description": "Мясо краба и жирные сливки",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		2.330541,
+48.869089
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Консоме ",
+        "description": "Консоме (от фр. Con-sommer — долго варить) представляет собой крепкий, сильно уваренный осветлённый мясной бульон. Консоме готовят из говядины, телятины, а также из куриного мяса. Часто консоме является «двойным» бульоном, что означает, что вначале был сварен бульон на кости, в котором затем было отварено уже мясо (кусочки или фарш). Подаётся с мясными пирожками и зеленью",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		    -0.573013,
+        44.841337
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Каштановый суп",
+        "description": "Каштаны — основной ингредиент.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		  2.341164,
+      48.881594
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Калакейтто",
+        "description": "Карельское и финское национальное блюдо, традиционный финский и карельский суп, может встречаться название молочная уха.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#2F4F4F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		24.955108,
+    60.168156
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Тинола",
+        "description": "Курица и нарезанная зелёная папайя.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#7FFFD4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		121.017451,
+14.570062
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Лог-лог ",
+        "description": "Суп с яичной лапшой (региональные вариации зовутся киналас, батсой)",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#7FFFD4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		121.024618,
+14.560498
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Джинатан",
+        "description": "Метод приготовления включает в себя использование кокосового молока. Джинатаном на Филиппинах называют несколько разных блюд.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#7FFFD4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		121.033861, 
+14.634857
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Бинигнайт",
+        "description": "Кокосовое молоко, фрукты и тапиока; подаётся горячим, но иногда охлаждённым.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#7FFFD4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		121.030730,
+14.563048
+        ]
+      }
+    },
+			{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из лука-порея",
+        "description": "Кокосовое молоко, фрукты и тапиока; подаётся горячим, но иногда охлаждённым.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFFACD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-3.219134,
+		51.512709
+        ]
+      }
+    },
+			{
+      "type": "Feature",
+      "properties": {
+        "title": "Лагман",
+        "description": "Популярное среднеазиатское национальное блюдо уйгуров и дунган, проживающих в Казахстане, Киргизии и Китае (Синьцзян), китайцев, особенно в провинциях Ганьсу и Цинхай, а также узбеков. Лагман готовится из мяса (преимущественно баранины), овощей и тянутой длинной лапши.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#EE82EE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		69.271182,
+41.294385
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Анэли Кызлы",
+        "description": "Булгур, мясные шарики и нут; часто подаётся с соусом из йогурта.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9ACD32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		28.976391,
+41.010093
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп Эзогелин",
+        "description": "Суп из красной чечевицы, булгура, лука, чеснока, соли, оливкового масла, чёрного перца, острого перца и мяты.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9ACD32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		28.972837,
+41.015405
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Тархана",
+        "description": "Ферментированное зерно и молочные продукты",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9ACD32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		32.871989,
+39.894257
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из свиной крови",
+        "description": "Тайская и китайская кухни, употреблялся ещё рабочими в Кайфыне «более тысячи лет назад»",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAF0E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		100.540687,
+13.743184
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Том-ям",
+        "description": "Кисло-острый суп на основе куриного бульона с креветками, курицей, рыбой или другими морепродуктами. Национальное блюдо Лаоса и Таиланда. Также употребляется в соседних странах: в Малайзии, Сингапуре и Индонезии.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAF0E6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		100.556392,
+13.740825
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из индейки",
+        "description": "Мясо и бульон из индейки, овощи (обычно лук, морковь и сельдерей), широкая яичная лапша или рис.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-77.064131,
+38.908197
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Крабовый суп",
+        "description": "Мясо голубого краба и крабовая икра",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-80.856160,
+34.100509
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Новоанглийский клэм-чаудер",
+        "description": "Бекон, мирпуа, сок моллюска и густые сливки, а также картофель и нарезанные моллюски.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-90.065270, 
+29.960986
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Филадельфийский перечный горшок",
+        "description": "Суп из говяжьей требухи и перца.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-75.153601,
+39.947457
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Манхэттенский клэм-чаудер",
+        "description": "Клэм-чаудер на томатной основе.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-71.415890, 
+41.822249
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Корн-чаудер",
+        "description": "Напоминает ново-английский клэм-чаудер, с кукурузой вместо моллюсков. Густой кремовый суп с кукурузой, картофелем и беконом на курином бульоне — жирный, сытный и домашний",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-72.674999,
+41.766883
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Мэрилендский крабовый суп",
+        "description": "Овощи, голубой краб, а также смесь специй и пряностей«Old Bay Seasoning» в томатной основе.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-76.632909,
+39.141075
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Гамбо",
+        "description": "Блюдо американской кухни, распространённое в штате Луизиана. Представляет собой густой суп со специями, похожий по консистенции на рагу. В состав гамбовходят: овощи (помидоры, окра, лук, сладкий перец), мясо, курица, колбасы, ветчинаили морепродукты (креветки, крабы или устрицы).",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-90.816602,
+29.802552
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Саймин",
+        "description": "Свежая, мягкая, невысушенная яичная лапша в бульоне из скумбрии или креветок с веяниями китайской, японской, филиппинской, гавайской, корейской и португальской кухонь.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-159.315821,
+22.078980
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Рагу Миллиган",
+        "description": "Импровизированный суп-рагу, обычно готовящийся из всех доступных ингредиентов.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-73.983532, 
+40.749258
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Цёпинно",
+        "description": "Тушённое рыбное ассорти с томатами и моллюсками(итало-американская кухня).",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-122.399980, 
+37.797199
+        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Тыквенный суп",
+        "description": "В этот крем-суп из тыквы может входить немного зелёного перца (итальянского), красный перец, лук, соль и немного масла. Сверху суп украшают рукколой.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#778899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-111.660023,
+40.251416
+        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Бак Кут Те",
+        "description": "",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		103.859805,
+1.293693
+        ]
+      }
+    },	
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп Би-Хун",
+        "description": "Суп из морепродуктов",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		103.809638,
+1.304736
+        ]
+      }
+    },	
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из нарезной рыбы",
+        "description": "Рыба, креветки и овощи.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		103.843957,
+1.283105
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Окрошка",
+        "description": "Традиционное блюдо национальной русской кухни.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#0000CD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		37.600283, 
+55.760753
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Окрошка",
+        "description": "Традиционное блюдо национальной украинской кухни.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFB6C1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.516895, 
+50.459865
+        ]
+      }
+    },	
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Солянка",
+        "description": "Блюдо русской кухни, суп на крутом мясном, рыбном или грибном бульоне с острыми приправами",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#0000CD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		30.367764, 
+60.033861
+        ]
+      }
+    },	
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Щи",
+        "description": "Разновидность заправочного супа, национальное русское блюдо.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#0000CD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		37.582728, 
+55.781610
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Рассольник",
+        "description": "Блюдо русской кухни, суп, основой которого являются солёные огурцы, также может добавляться огуречный рассол",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#0000CD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		30.312150, 
+59.935685
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Уха",
+        "description": "Русское и украинское национальное жидкое блюдо, разновидность супа. Готовится из одного или нескольких видов рыбы. Нередко сочетают рыбу морскую и речную, в супе больший объём занимает рыба, нежели овощи.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#0000CD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.057887, 
+48.473368
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Уха",
+        "description": "Русское и украинское национальное жидкое блюдо, разновидность супа. Готовится из одного или нескольких видов рыбы. Нередко сочетают рыбу морскую и речную, в супе больший объём занимает рыба, нежели овощи.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFB6C1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		30.519242, 
+50.439819
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Каменный суп",
+        "description": "Свинина (например чоризо и бекон), красная фасоль и кориандр.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-9.141078, 
+38.710213
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Канжа де Галина",
+        "description": "Курица, паста и лимон",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-8.612278, 
+41.144618
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Калду верде",
+        "description": "Картофель, тонко нарезанная кале и ломтики чоризо, добавляемыми после подачи.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-16.934010, 
+32.637924
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Капустница",
+        "description": "Квашеная капуста, мясо",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFB6C1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		30.519510, 
+50.444709
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Жур",
+        "description": "Оригинальное национальное блюдо, входящее в состав польской и белорусской кухонь. Был известен у славянских народов ещё со времен Владимира Мономаха и представлял собой похлебку из овсяной муки.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFA07A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		27.562324, 
+53.900125
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Чупе",
+        "description": "Густой молочный суп с морепродуктами.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#5F9EA0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-71.976669,  
+-13.515791
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Бергенский рыбный суп",
+        "description": "Белая рыба (пикша, палтус, треска) и разнообразные овощи в густых сливках.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#6495ED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		10.742180, 
+59.909005
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из козьего мяса с перцем",
+        "description": "Общие ингредиенты: козлятина, раки, африканский перец(также зовется «энге») и мускатный орех",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#ADFF2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		3.429097, 
+6.431641
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп Фуфу",
+        "description": "Овощи, мясо, рыба и шарики из семян.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#ADFF2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		3.360606, 
+6.513732
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "title": "Моинг-га",
+        "description": "В состав входят: нути/или дроблёный обжаренный рис, чеснок, лук, лемонграсс, стебель бананового дерева, имбирь, рыбная паста, рыбный соуси сом в наваристом бульоне. Подаётся с рисовой вермишелью.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#C71585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		96.151918,
+16.847095
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Позоле",
+        "description": "Свинина или курятина в бульоне, мамалыга, лук, чеснок, сушёные чили и кинза — основные ингредиенты.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAEBD7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-86.872717, 
+21.132382
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Менудо",
+        "description": "Требуха, нога телёнка, перцы чили, мамалыга и специи.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAEBD7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-86.747355, 
+21.135703
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Соп Камбин",
+        "description": "Козлятина, томаты, сельдерей, зелёный лук, имбирь, листья свечного дерева или лайма, бульон, жёлтый по цвету.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#D2691E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		101.708320, 
+3.147806
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Лакса",
+        "description": "Блюдо перанаканской кухни, распространённое в Малайзии, Сингапуре и Индонезии и представляющее собой острый суп с лапшой",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#D2691E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		101.616036, 
+3.147135
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Утиный суп с лапшой",
+        "description": "Горячий суп с утиным мясом, разными травами и лапшой.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#D2691E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		102.252327, 
+2.195352
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Карри Ми",
+        "description": "Тонкая жёлтая лапша и/или ми-хун (рисовая вермишель) с острым соусом карри, перец-чили/самбал, кокосовое молоко, и по желанию сушёное тофу, креветки, каракатицы, курица, яйца, листки мяты и сердцевидки(моллюски).",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#D2691E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		110.314907, 
+1.751292
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Ттоккук",
+        "description": "Блюдо корейской кухни, суп с клёцками «тток». В Корее его обычно едят на Новый год. В ттоккук два ингредиента — подливка (кук) и тонко нарезанные рисовые лепёшки тток. Считается, что есть ттоккук — хорошее предзнаменование, а чашка ттоккука продлевает жизнь на год. В ттоккук часто добавляют нарезанное варёное яйцо, маринованное мясо и ким.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		126.930167, 
+37.482169
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Самгетхан",
+        "description": "Суп из курицы и женьшеня, готовящийся с клейким рисом, жужубой, каштанами, чесноком и имбирём.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		129.228613, 
+35.197447
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Нанг Мен",
+        "description": "Традиционный суп с лапшой",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		129.337057, 
+35.538373
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Нэнмён",
+        "description": "В корейской кухнехолодное куксу (лапша) с водой, разбавленной с соевым соусом и горчицей. Также содержит овощи, яйцо и отварное мясо. Название переводится с корейского языка как «холодная лапша».",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		126.711052, 
+37.532143
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Мьёоггук",
+        "description": "Суп с морскими водорослями.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		129.060531, 
+35.153784
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Кук",
+        "description": "Тхан (탕) или кук (국) — это разновидность блюд корейской кухни. Хотя «кук» часто группируют с «тхан», строго говоря, это разные блюда: кук более жидкий и чаще подаётся дома, а тхан более густой и был придуман как ресторанная еда.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		128.59054,
+35.866879
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Комкук",
+        "description": "Готовится из говяжьих рёбер, хвоста, корейки, головы и костей продолжительным вывариванием на медленном огне. Бульон комкука имеет молочно-белый цвет и насыщенный вкус.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.895708, 
+37.470539
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Ахиако",
+        "description": "В столице КолумбииБоготе ахиако в основном готовят из курицы, трёх сортов картофеля (один из которых очень хорошо разваривается) и из травы галинзога мелкоцветковая(называемой местными «гуаскос»). На Кубе это тушенное блюдо из говядины, свинины, курицы, овощей а также с разными клубнеплодами и корнеплодами. Считается, что название происходит от одного из испанских названий перца «aji» — блюдо и вправду острое.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#BC8F8F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.030905, 
+4.694667
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из зимней тыквы",
+        "description": "Восковая тыква, наполненная обычно куриным бульоном, овощами и мясом (готовившимися на пару несколько часов).",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.478540, 
+39.910336
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Танг Мьян",
+        "description": "Яичная лапша в бульоне, обычно говяжьем или курином.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		121.498381, 
+31.236188
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Танг Фен",
+        "description": "Рисовая лапша в бульоне, обычно говяжьем или курином.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.267393, 
+23.121207
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из акульих плавников",
+        "description": "Суп из акульих плавников — блюдо китайской кухни, традиционно подаваемое по специальным случаям, таким как свадьбы или банкеты.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.419351, 
+39.941969
+        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Лян-Фанг",
+        "description": "Суп из го-рё (собачьего мяса) либо морепродуктов с лимоном, перцем чили и китайскими овощами.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.447835, 
+31.217396
+        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Даньхуатан",
+        "description": "Китайский суп с клочками яиц, варёных в курином бульоне.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.073943, 
+30.558939
+        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп из гнёзд",
+        "description": "Съедобные птичьи гнёзда, дорогой деликатес, ценящийся за необычную структуру.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#00FF7F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.488972, 
+31.235670
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Джинестрата",
+        "description": "Жидкий, слегка приправленный суп на яичной основе из куриного бульона, яичных желтков и с марсалой или белым вином.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.256762, 
+43.768947
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Аквакотта",
+        "description": "Изначально крестьянская пища, исторически основные ингредиенты: вода, чёрствый хлеб, лук, томаты, оливковое масло и любые сподручные овощи и обрезки мяса. Блюдо считается одним из древних",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.242878, 
+43.768810
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Макку",
+        "description": "Основной ингредиент: бобы",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		12.329054, 
+37.933402
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Гармуджа",
+        "description": "Основные ингредиенты: куриный или овощной бульон, спаржа, артишоки, бобы, горох, лук и мясо, например панчетта и телятина",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.505270,
+43.844408
+        ]
+      }
+    },	
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Буридда",
+        "description": "Суп с морепродуктами или тушённое блюдо",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.923893, 
+44.413674
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Зуппа Павезе",
+        "description": "Состоит из бульона с жареными ломтиками хлеба и яйцами пашот. Обычно подаётся с тёртым сыром",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.345855, 
+38.119508
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп Алла-Канавезе",
+        "description": "Бульон, томатное пюре, масло, морковь, сельдерей, лук, цветная капуста, беконный жир, пармезан, петрушка, шалфей, соль и перец чёрный.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.469399, 
+41.889952
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Минестроне",
+        "description": "Блюдо итальянской кухни, лёгкий суп из сезонных овощей, иногда с добавлением пасты или риса. Минестроне — одно из наиболее распространённых в Италии блюд.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FAFAD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.401878, 
+43.723392
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Сопа де Гато",
+        "description": "Простой суп, включающий в себя хлеб, масло, чеснок, соль",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#B22222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.176255, 
+41.380057
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Кальдилло де Перро",
+        "description": "Морепродукты, хек, чеснок, оливковое масло, лимоны и померанец. Принято подавать с кислым апельсиновым соком.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#B22222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.256993, 
+41.118246
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Сальморехо",
+        "description": "Холодный суп-пюре из томатов и хлеба, родом из андалусской Кордовы. Сальморехо делают из томатов, хлеба, масла, чеснока и уксуса. Томатыобычно очищают от кожицы и протирают вместе с другими ингредиентами. Суп подаётся холодным с нарезанным «горным хамоном» и варёными яйцами.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#B22222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.700374, 
+40.424601
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Гаспачо",
+        "description": "Пюре из помидоров и овощей",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#B22222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.994617, 
+37.392716
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Исленск Кьйотсупа",
+        "description": "Суп с бараниной и овощами.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#191970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.941532, 
+64.148436
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Чаудер из морепродуктов",
+        "description": "Лосось, мидии, креветки и гребешки в сливочной основе.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#808080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.262655, 
+53.345414
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Саюр-тумпан",
+        "description": "Темпе, перец-чили и индонезийские приправы.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9932CC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.801711, 
+-6.252888
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Сото Аям",
+        "description": "Пряный суп с куриным мясом, разобранным на волокна, лапшой и разными гарнирами: бобовыми ростками, варёными яйцами, зелёным луком, жареными хлопьями лука, соусом чили, рисовыми лепешками и картофельными оладьями",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9932CC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.681321, 
+3.582323
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Сото",
+        "description": "Густой суп, базирующийся на разных пряных пастах, бульонах и иногда кокосовом молоке. К сото нередко идут разные гарниры — бобовые ростки, самбал, крекеры, оладьи и иногда лапша.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9932CC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.266559, 
+-8.516313
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Саюр-асем",
+        "description": "Овощной кисловато-пряный суп",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9932CC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.670973, 
+3.592399
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Расам",
+        "description": "В индийской кухне — овощной суп.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#F4A460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		72.851602, 
+19.104221
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Харчо",
+        "description": "Национальный грузинский суп из говядины с рисом на специальной кислой основе — сушёных слив-ткемали либо тклапи. Суп густой, очень пряный, острый, с обилием чеснока и местной зелени (в частности, уцхо-сунели).",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#756FEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.781275, 
+41.711927
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Псоросупа",
+        "description": "Оливковое масло и лимонный сок, овощи, рис и морская рыба.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#045FB4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		23.725635, 
+37.980305
+
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Авголемоно",
+        "description": "Куриный бульон, рис, ризони и лимон, сгущённые осторожно введёнными яйцами (чтобы не свернулись).",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#045FB4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		22.937239,
+40.634494
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Суп Рамфорда",
+        "description": "Простой суп, готовящийся из ячменя или ячменной муки и гороха как основных ингредиентов, позиционировался как суп для бедных людей",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#581A1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		11.579893, 
+48.137817
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Джуму",
+        "description": "Пряный тыквенный суп с кусочками говядины, картофеля, бананов и овощей: сельдерей, морковь, петрушка, лук и капуста. Его едят каждое первое января — в честь Гаитянской независимости в 1804 году.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#C5B51B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-72.281377, 
+18.512594
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Буйон",
+        "description": "Кусочки мяса, картофель, кусочки плантана, ямса, ламинарии, капусты и сельдерея. Традиционно готовится по субботам.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#C5B51B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.255101, 
+18.60650
+        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Кислый суп (рыбный суп)",
+        "description": "Рис, рыба, разные овощи и в некоторых случаях ананас. Этим термином также называется масса супов разных национальных кухонь.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#32C6D2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.196350, 
+12.245090
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Фо",
+        "description": "Блюдо вьетнамской кухни, суп с лапшой, в который при сервировке добавляют говядину или курятину, иногда кусочки жареной рыбы или рыбные шарики.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#32C6D2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.997912, 
+11.557909        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Щавелевый суп",
+        "description": "Суп из щавеля, популярный в России, Польше, Украине. В некоторых рецептах заменяется шпинатом или лебедой.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#9645F7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.023451, 52.195469        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Борщ",
+        "description": "Капуста и свёкла с мясом и разными овощами в мясном бульоне. Один из немногих супов, подающихся и горячим и холодным. Национальное украинское блюдо.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#FFB6C1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.741464, 46.482318     ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Винный суп",
+        "description": "Суп-напиток",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#924A07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.052632, 47.499733        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Вишнёвый суп",
+        "description": "Вишни со сметаной.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#924A07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [		21.624823, 47.529370        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Гуляш",
+        "description": "Национальное блюдо венгров: кусочки говядины или телятины, тушёные с копчёным шпиком, луком, перцем (паприкой) и картофелем. Блюдо относится к категории густых супов. Изначально суп с различными добавками был традиционной едой венгерских пастухов и готовился в котлах на костре.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#924A07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.058096, 
+47.487692
+        ]
+      }
+    },	{
+      "type": "Feature",
+      "properties": {
+        "title": "Халасле",
+        "description": "Горячий и пряный суп из речной рыбы с большим количеством паприки.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#924A07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.227781, 46.074775]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Таратор",
+        "description": "Холодный суп, популярный в летнее время в Болгарии и Македонии. Обычно подаётся перед вторыми блюдами или одновременно со вторым блюдом (иногда в стакане, если жидкий). Основные компоненты: кислое молоко (несладкий жидкий йогурт), огурцы, чеснок, грецкий орех, укроп, растительное (часто оливковое) масло, вода, соль, специи.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#CDC937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.915282, 43.199837]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Ватерзой",
+        "description": "Классическая бельгийская похлёбка, традиционное блюдо Фландрии. Иногда также используется название «Gentse Waterzooi» (гентский ватерзой), которое указывает на происхождение блюда.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#064C45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.223200, 51.206421]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Миллигатауни",
+        "description": "Мясо овощи и специи. Базируется на индийском рецепте соуса.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#DEF312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.190043, 51.443820]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Бурый виндзорский суп",
+        "description": "Баранина или говядина, пастернак, морковь, лук-порей, букет гарни, мадера; популярно со времён викторианской эпохи.",
+        "marker-symbol": "restaurant",
+        "marker-size": "medium",
+        "marker-color": "#DEF312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.595182, 51.469981 ]
+      }
+    }
+  ]
+}
